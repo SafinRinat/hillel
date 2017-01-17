@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="http://itschool-hillel.org/favicon-16x16.png">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">-->
+    <link rel="stylesheet" href="css/style.css">
+    <title>multiplication table</title>
+</head>
+<body>
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <div class="form-wrapper">
+            <h3>Simple calculate</h3>
+            <form class="form-horizontal">
+                <div class="form-group">
+                    <div class="col-sm-10">
+                        <label for="numOne" class="control-label">Введите первое число</label>
+                    </div>
+                    <div class="col-sm-10">
+                        <input type="number" class="form-control" name="numOne" id="numOne" placeholder="Enter 1 number">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="checkbox">
+                        <label>
+                            <input type="radio" name="method" value="*" checked> Умножение
+                        </label>
+                    </div>
+
+                    <div class="checkbox">
+                        <label>
+                            <input type="radio" name="method" value="/"> Деление
+                        </label>
+                    </div>
+
+                    <div class="checkbox">
+                        <label>
+                            <input type="radio" name="method" value="+"> Сложение
+                        </label>
+                    </div>
+
+                    <div class="checkbox">
+                        <label>
+                            <input type="radio" name="method" value="-"> Вычитание
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-10">
+                        <label for="numTwo" class="control-label">Введите второе число</label>
+                    </div>
+
+                    <div class="col-sm-10">
+                        <input type="number" class="form-control" name="numTwo" id="numTwo" placeholder="Enter 2 number">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-10">
+                        <button id="submit" type="submit" class="btn btn-default">Умножить</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="form-wrapper">
+            <h3>Multiplication table</h3>
+            <form class="form-horizontal" action="#" method="POST">
+                <div class="form-group">
+                    <div class="col-sm-10">
+                        <label for="enter_number" class="control-label">Введите число</label>
+                    </div>
+                    <div class="col-sm-10">
+                        <input type="number" class="form-control" name="enter_number" id="enter_number" placeholder="Введите число">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-10">
+                        <button id="submit-multiplication-number" type="submit" class="btn btn-default">Умножить</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <!-- Button trigger modal -->
+        <!--<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">-->
+            <!--Launch demo modal-->
+        <!--</button>-->
+
+        <!-- Modal -->
+        <div class="modal fade" id="resModal" tabindex="-1" role="dialog" aria-labelledby="resModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Результат умножения ваших чисех:</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div id="result"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4"></div>
+</div>
+
+<script src="http://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+        crossorigin="anonymous"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+body {
+    background: #ffffff;
+    font-size: 16px;
+    line-height: 1;
+}
+h3 {
+    padding: 0;
+    margin: 0;
+}
+.form-wrapper {
+    border: 1px solid #dddddd;
+    position: relative;
+    padding: 15px 15px 15px;
+    margin: 15px -15px 15px;
+    border-radius: 4px 4px 0 0;
+}

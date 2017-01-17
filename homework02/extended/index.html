@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="icon" type="image/png" href="http://itschool-hillel.org/favicon-16x16.png">
+    <title>Detect lang</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            <div class="form-wrapper">
+                <h2>
+                    Select Your Language:
+                </h2>
+                <form action="scripts/detect_lang.php">
+                    <div class="form-group">
+                        <select name="lang" id="lang">
+                            <option value="eng">
+                                English
+                            </option>
+                            <option value="ru">
+                                Russian
+                            </option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <button id="submit" type="submit" class="btn btn-default">Send</button>
+                    </div>
+                </form>
+            </div><!-- END form-wrapper -->
+        </div>
+        <div class="col-md-4"></div>
+    </div>
+</body>
+</html>
