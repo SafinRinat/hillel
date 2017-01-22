@@ -5,42 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="197540c7-d8cc-45a8-bc33-6012bcca0b95" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework06/Classes/VoteHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework06/TechnicalTask_InternetShop.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework06/handler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework06/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework06/init.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework06/school.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework07/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework07/upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework08/empty.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson07/some_new_index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/files/1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/files/hello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/files/hello.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/files/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/files/log.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/hello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/hello.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/json/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/json/json.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/xml/cars.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson08/xml/index.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homework07/psr.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shit/FolderClasses/Products.php" afterPath="$PROJECT_DIR$/test/FolderClasses/Products.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shit/FolderClasses/ProductsSale.php" afterPath="$PROJECT_DIR$/test/FolderClasses/ProductsSale.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shit/FolderClasses/ProductsSaleLimit.php" afterPath="$PROJECT_DIR$/test/FolderClasses/ProductsSaleLimit.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shit/index.php" afterPath="$PROJECT_DIR$/test/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shit/init.php" afterPath="$PROJECT_DIR$/test/init.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shit/scripts/db.php" afterPath="$PROJECT_DIR$/test/scripts/db.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homework05/FolderClasses/ProductPeriod.php" afterPath="$PROJECT_DIR$/homework05/FolderClasses/ProductPeriod.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homework05/FolderClasses/ShopORM.php" afterPath="$PROJECT_DIR$/homework05/FolderClasses/ShopORM.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homework05/index.php" afterPath="$PROJECT_DIR$/homework05/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson07/123.php" afterPath="$PROJECT_DIR$/lesson07/123.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson07/index.php" afterPath="$PROJECT_DIR$/lesson07/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homework07/upload.php" afterPath="$PROJECT_DIR$/homework07/upload.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,54 +27,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework07/index.html">
+      <file leaf-file-name="ShopORM.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homework05/FolderClasses/ShopORM.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="64" column="52" lean-forward="false" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loadFiles.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson07/loadFiles.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="upload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework07/upload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state relative-caret-position="242">
+              <caret line="83" column="37" lean-forward="false" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="37" />
               <folding>
-                <element signature="e#6#520#0#PHP" expanded="true" />
+                <marker date="1485042831791" expanded="true" signature="2280:2316" ph="SELECT * FRO... product" />
+                <marker date="1485042831791" expanded="true" signature="2903:2949" ph="SELECT * FRO... product" />
+                <marker date="1485042831791" expanded="true" signature="3156:3226" ph="INSERT INTO vote_result... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/homework06/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Init.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson07/Init.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -191,13 +120,13 @@
         <option value="$PROJECT_DIR$/homework06/vote_simple/index.html" />
         <option value="$PROJECT_DIR$/homework06/vote_simple/Classes/VoteHandler.php" />
         <option value="$PROJECT_DIR$/homework06/vote_simple/handler.php" />
-        <option value="$PROJECT_DIR$/homework05/index.php" />
         <option value="$PROJECT_DIR$/homework05/FolderClasses/ProductPeriod.php" />
         <option value="$PROJECT_DIR$/homework07/index.html" />
         <option value="$PROJECT_DIR$/homework07/psr-git.php" />
-        <option value="$PROJECT_DIR$/homework07/upload.php" />
         <option value="$PROJECT_DIR$/homework06/TechnicalTask_InternetShop.txt" />
         <option value="$PROJECT_DIR$/homework06/index.html" />
+        <option value="$PROJECT_DIR$/homework07/upload.php" />
+        <option value="$PROJECT_DIR$/homework05/index.php" />
       </list>
     </option>
   </component>
@@ -296,7 +225,153 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="homework07" />
+              <option name="myItemId" value="lesson08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson07" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson07" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework08" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework06" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework05" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hillel.cc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework05" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FolderClasses" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,12 +506,12 @@
       <workItem from="1484938477206" duration="1426000" />
       <workItem from="1484996187283" duration="875000" />
       <workItem from="1485028168226" duration="14600000" />
-      <workItem from="1485087045221" duration="13443000" />
+      <workItem from="1485087045221" duration="14456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242307000" />
+    <option name="totallyTimeSpent" value="243320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1368" height="721" extended-state="6" />
@@ -476,45 +551,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson06/MyClasses/Publication.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson06/MyClasses/News.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson06/MyClasses/SmallORM.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson06/Init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson05/MyClasses/SmallORM.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-427">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1482347258000" expanded="true" signature="536:631" ph="insert into article... " />
-            <marker date="1482347258000" expanded="true" signature="1108:1144" ph="select * fro... article" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson05/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -696,28 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework04/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#844#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework05/FolderClasses/ShopORM.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="107" column="24" lean-forward="true" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
-          <folding>
-            <marker date="1485042831791" expanded="true" signature="2280:2316" ph="SELECT * FRO... product" />
-            <marker date="1485042831791" expanded="true" signature="2903:2949" ph="SELECT * FRO... product" />
-            <marker date="1485042831791" expanded="true" signature="3156:3226" ph="INSERT INTO vote_result... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/homework05/FolderClasses/ProductPeriod.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -731,17 +745,6 @@
         <state relative-caret-position="195">
           <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="34" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework05/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#844#0#PHP" expanded="true" />
-            <element signature="e#1270#1296#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,14 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson07/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="39" column="61" lean-forward="false" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -857,16 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework07/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#520#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/homework06/TechnicalTask_InternetShop.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
@@ -888,6 +873,96 @@
         <state relative-caret-position="203">
           <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson08/hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson08/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson08/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1177">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson07/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="61" lean-forward="false" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework04/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#6#844#0#PHP" expanded="true" />
+            <element signature="e#1270#1296#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework07/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework05/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#844#0#PHP" expanded="true" />
+            <element signature="e#1270#1296#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework05/product.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework05/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework05/FolderClasses/ShopORM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="83" column="37" lean-forward="false" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="37" />
+          <folding>
+            <marker date="1485042831791" expanded="true" signature="2280:2316" ph="SELECT * FRO... product" />
+            <marker date="1485042831791" expanded="true" signature="2903:2949" ph="SELECT * FRO... product" />
+            <marker date="1485042831791" expanded="true" signature="3156:3226" ph="INSERT INTO vote_result... " />
+          </folding>
         </state>
       </provider>
     </entry>

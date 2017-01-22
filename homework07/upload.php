@@ -7,7 +7,8 @@
  * upload files from the server all images and validate upload data and formats!
  *
  *  git init - Инициализация репозитория в проекте
- *  git add README.mdgit commit -m "first commit"
+ *  git add README.md
+ *  git commit -m "first commit"
  *  git remote add origin https://github.com/ВАШ_ЛОГИН_НА_GITHUB/НАЗВАНИЕ_ПРОЕКТА.git
  *  git push -u origin master
  *  Создание новой ветки:git checkout -b BRANCH_NAME

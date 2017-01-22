@@ -80,7 +80,8 @@ $productList = [
 
 try {
     foreach ($productList as $key => $val) {
-//        $orm->saveProduct($productList[$key]);
+        //try to insert data from db
+        $orm->saveProduct($productList[$key]);
     }
 } catch (\InvalidArgumentException $ex) {
     echo "<b>Ув. клиент! Ошибка при вводе. Данные не сохранились, повторите ввод.<br />" . $ex->getMessage() . "</b>";
