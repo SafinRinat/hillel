@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload image</title>
+    <style>
+        body {
+            padding: 40px;
+            background: #e3e3e3;
+            color: #000000;
+            margin: 0 auto;
+            text-align: center;
+            font: normal 16px/100% "Times New Roman", Times, serif;
+        }
+        .task {
+            padding: 20px;
+            margin: 0 auto;
+            border: 2px dashed #000000;
+        }
+
+        .task-list {
+            width: 250px;
+            margin: 0 auto;
+        }
+
+        .header {
+            font-weight: bold;
+            font-size: 22px;
+            padding: 40px 0 20px;
+        }
+
+        label {
+            width: 200px;
+            display: inline-block;
+            line-height: 20px;
+        }
+
+        .button {
+            padding: 20px 0;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="task">
+        <ol class="task-list">
+            <li>
+                Task: Upload files from the server;
+            </li>
+            <li>
+                All images must be validate;
+            </li>
+            <li>
+                Upload only image formats!
+            </li>
+        </ol>
+    </div>
+
+    <div class="header">Выберите изображение, которое хотите загрузить на сервер:</div>
+
+    <form action="upload.php" method="POST" enctype="multipart/form-data">
+        <div>
+            <label for="file">Кликните для выбора изображения : </label>
+            <input id="file" type="file" name="image">
+        </div>
+        <div class="button">
+            <input name="submit" type="submit" value="Загрузить">
+        </div>
+    </form>
+</body>
+</html>

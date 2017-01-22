@@ -16,6 +16,7 @@ class ProductPeriod extends BaseProduct
      * @cons string
      */
     const END_EVENT_DATE = '2017.01.31';
+
     /**
      * ProductPeriod constructor.
      * @param $name

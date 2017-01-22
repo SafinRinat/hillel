@@ -79,13 +79,30 @@ $productList = [
 ];
 
 try {
-
-    foreach ($productList as $key => $val)
-    {
-        $orm->saveProduct($productList[$key]);
+    foreach ($productList as $key => $val) {
+//        $orm->saveProduct($productList[$key]);
     }
 } catch (\InvalidArgumentException $ex) {
     echo "<b>Ув. клиент! Ошибка при вводе. Данные не сохранились, повторите ввод.<br />" . $ex->getMessage() . "</b>";
+}
+
+
+$getProd = $orm->getProduct('1');
+
+$curency = '$'; //TODO: make method return curency;
+
+if ($getProd !== false) {
+    echo "Номер товара: " . $getProd['id'] . "<br />";
+    echo "Название товара: " . $getProd['model'] . "<br />";
+    echo "Цена товара: " . $getProd['price'] . $curency . "<br />";
+}
+
+$getAllProd = $orm->getAllProduct();
+
+foreach ($getAllProd as $kk => $vall) {
+    echo "Номер товара: " . $getAllProd[$kk]['id'] . "<br />";
+    echo "Название товара: " . $getAllProd[$kk]['model'] . "<br />";
+    echo "Цена товара: " . $getAllProd[$kk]['price'] . $curency . "<br /><br />";
 }
 
 //catch (ProductWrongFieldsException $ex)

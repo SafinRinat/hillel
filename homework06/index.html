@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vote page</title>
+    <style>
+        body {
+            padding: 40px;
+            background: #e3e3e3;
+            color: #000000;
+            margin: 0 auto;
+            text-align: center;
+            font: normal 16px/100% "Times New Roman", Times, serif;
+        }
+        .header {
+            font-weight: bold;
+            font-size: 22px;
+            padding: 0 0 20px;
+        }
+        label {
+            width: 200px;
+            display: inline-block;
+            line-height: 20px;
+        }
+        .button {
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <h1>
+        Техническое задание в файле: <b>TechnicalTask_InternetShop.txt</b>
+    </h1>
+    <h3>Дамп базы: </h3>
+</div>
+<div class="header">
+    Какой напиток Вы предпочитаете?
+</div>
+<form action="handler.php" method="POST">
+    <div>
+        <label for="coffee">Кофе</label>
+        <input id="coffee" type="radio" name="vote" value="coffee" checked>
+    </div>
+    <div>
+        <label for="tea">Чай</label>
+        <input id="tea" type="radio" name="vote" value="tea">
+    </div>
+    <div>
+        <label for="other">Воздерживаетесь</label>
+        <input id="other" type="radio" name="vote" value="other">
+    </div>
+    <div class="button">
+        <input type="submit" value="Send vote">
+    </div>
+</form>
+</body>
+</html>

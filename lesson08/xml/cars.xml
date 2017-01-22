@@ -1,0 +1,25 @@
+<shop>
+    <cars>
+        <car manufacturer="Infiniti">
+            <model>FX-i35</model>
+            <submodel>
+                <model>
+                    FX-35i
+                </model>
+                <model>
+                    FX-35ix
+                </model>
+                <model>
+                    FX-35dt
+                </model>
+            </submodel>
+            <price>85000</price>
+            <currency>EUR</currency>
+        </car>
+        <car manufacturer="BMW">
+            <model>325i</model>
+            <price>43000</price>
+            <currency>EUR</currency>
+        </car>
+    </cars>
+</shop>

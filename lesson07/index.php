@@ -37,7 +37,7 @@ class SmallORM
 }
 
 $orm = SmallORM::getInstance();
-$orm->connect("mysql:host=127.0.0.1;dbname=testdb", "root", "123");
+$orm->connect("mysql:host=127.0.0.1;dbname=testdb", "root", "");
 $product = $orm->getProductById(1);
 
 
